@@ -1,7 +1,7 @@
 # cinematicket_Next
 <div align="center">
+![cover](https://github.com/amirhosseinkhodamoradi2222/cinematicket_Next/assets/128831822/e238616d-ac6b-47ee-a856-60a07e4f8b94)
 
-![](cover.png)
 
 </div>
 
