@@ -48,7 +48,7 @@ git clone https://github.com/amirhosseinkhodamoradi2222/cinematicket_Next
 ```
 
 ```shell
-cd cinematicket.org
+cd cinematicket_Next
 ```
 
 #### 2) Setup Project
