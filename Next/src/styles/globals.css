@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './libraries/nprogress.css';
+@import './libraries/ReactMultiDatePicker.css';
+
+:root {
+    --primary: #ff3543;
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 214, 219, 220;
+    --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --foreground-rgb: 255, 255, 255;
+        --background-start-rgb: 0, 0, 0;
+        --background-end-rgb: 0, 0, 0;
+    }
+}
+
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: 300;
+    src: local('Dana-Light'), url('/assets/fonts/Dana-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: 500;
+    src: local('Dana-Medium'), url('/assets/fonts/Dana-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: 600;
+    src: local('Dana-DemiBold'), url('/assets/fonts/Dana-DemiBold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: dana;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Dana-Regular'), url('/assets/fonts/Dana-Regular.woff2') format('woff2');
+}
+
+* {
+    font-family: dana;
+    outline: none;
+}
+
+input {
+    @apply focus-visible:outline-none focus:outline-none focus:placeholder:text-transparent placeholder:text-sm;
+}
