@@ -5,6 +5,9 @@
 ![cover](https://github.com/amirhosseinkhodamoradi2222/cinematicket_Next/assets/128831822/eaaf712a-63a1-413e-bd55-9e5ed64f307b)
 
 
+![Screenshot (6)](https://github.com/amirhosseinkhodamoradi2222/cinematicket_Next/assets/128831822/28183ed5-d0f8-44da-b1cd-3ae62684385b)
+
+
 </div>
 
 The cinema ticket project encompasses both the back-end and front-end development, serving as a sample work rather than having any formal implications. The developers involved in this project have been challenged to utilize their expertise and deliver a valuable showcase of their skills.
