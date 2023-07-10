@@ -145,15 +145,3 @@ Now to run a local server, enter `npm start`. After starting the server, you can
 
 Done with the [How to run](#how-to-run) section? Great! You can now see the api documentation on `http://localhost:{PORT OF .env FILE}/apidocs`. All the information about the requests lies there. Have fun developing :)
 
-
-### Contact me
-
-- *[Telegram](https://t.me/peymanath)*
-- *[LinkedIn](https://linkedin.com/in/peymanath)*
-- *[Email](mailto:naderidefault@gmail.com)*
-
-### Contact Your Back-End Developer
-
-- *[Github](https://github.com/mahdiHash)*
-- *[LinkedIn](https://www.linkedin.com/in/mh-coding/)*
-- *[Email](mailto:mahdiHashemi.code@gmail.com)*
