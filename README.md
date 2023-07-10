@@ -35,12 +35,6 @@ Back-End:
 #### Developing ...
 
 ---
-### Priview 
-
-
-To view it online, please click on the link below: [Priview Online (Comming soon ...)]()
-
----
 
 ### Setup the project on your localhost
 
@@ -50,7 +44,7 @@ To set up the project on your localhost, follow the steps below. Afterwards, you
 #### 1) Clone Project
 
 ```shell
-git clone https://github.com/peymanath/cinematicket.org
+git clone https://github.com/amirhosseinkhodamoradi2222/cinematicket_Next
 ```
 
 ```shell
@@ -111,7 +105,7 @@ Third, you need an [ImageKit](https://imagekit.io) cloud storage. At the time of
 For the last part, you need to clone this repo. Go to any directory you want in your computer. Then, open the terminal and write the command below (I assume you already have Git installed):
 
 ```
-git clone https://github.com/mahdiHash/cinemaTicket-server.git
+git clone https://github.com/amirhosseinkhodamoradi2222/cinematicket_Next
 ```
 
 After that:  
